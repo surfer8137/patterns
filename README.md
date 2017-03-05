@@ -3,4 +3,4 @@
 I have implemented the following patterns:
 <br>
 <br>
-  #1 Decorator pattern: added the remove decorator layer functionality 
+  #1 <a href="https://github.com/surfer8137/patterns/tree/master/modified_decorator_pattern"> Decorator pattern</a>: added the remove decorator layer functionality 
